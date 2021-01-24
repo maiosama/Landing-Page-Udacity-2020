@@ -105,6 +105,13 @@ section {
     color: rgb(65, 20, 228);
     transition: ease 0.3s all;
 }
+/* highlight the active section in the navbar */
+@media only screen and (max-width: 600 px){
+    .navbar__menu .menu__link{
+        display: inline-block;
+    }
+} 
+
 /* button style*/
  #bttButton{
     position: sticky;
