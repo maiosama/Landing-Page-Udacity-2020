@@ -1,7 +1,7 @@
 # Landing-Page-Udacity-2020
 First project in the Web Development Professional Track.
 
-<em>About the project:</em><br>
+<strong><em>About the project:</em><strong><br>
 this project was created by using the start-up HTML and CSS of the landing project https://github.com/udacity/fend/tree/refresh-2019 <br>
 the DOM of the HTML was modified using Javascript.<br>
 <em>Modifications</em><br>
