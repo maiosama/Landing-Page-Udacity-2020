@@ -88,8 +88,11 @@ section {
     text-align: left;
     padding: 1em;
 }
-.navbar__menu li:hover{
-    background-color: rgba(26, 110, 219, 0.692);
+
+.navbar__menu li:hover {
+    background: rgb(185, 170, 240);
+    color: rgb(74, 55, 143);
+    text-decoration:underline;
 }
 
 .navbar__menu .menu__link {
@@ -100,11 +103,7 @@ section {
     color: rgb(0,13, 60, 1);
 }
 
-.navbar__menu .menu__link:hover {
-    background: #333;
-    color: rgb(65, 20, 228);
-    transition: ease 0.3s all;
-}
+
 /* highlight the active section in the navbar */
 @media only screen and (max-width: 600 px){
     .navbar__menu .menu__link{
