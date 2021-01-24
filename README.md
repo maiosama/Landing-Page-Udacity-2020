@@ -4,6 +4,7 @@ First project in the Web Development Professional Track.
 <strong><em>About the project:</em></strong><br>
 this project was created by using the start-up HTML and CSS of the landing project https://github.com/udacity/fend/tree/refresh-2019 <br>
 the DOM of the HTML was modified using Javascript.<br>
+<br>
 <strong><em>Modifications</em></strong><br>
 I used javascript to:<br>
 1-Create unordered list items of the sections in the page, and append this list to the main navigation bar in the top of the page.<br>
