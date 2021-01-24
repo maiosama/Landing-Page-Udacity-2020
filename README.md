@@ -4,7 +4,7 @@ First project in the Web Development Professional Track.
 <strong><em>About the project:</em></strong><br>
 this project was created by using the start-up HTML and CSS of the landing project https://github.com/udacity/fend/tree/refresh-2019 <br>
 the DOM of the HTML was modified using Javascript.<br>
-<em>Modifications</em><br>
+#<em>Modifications</em><br>
 I used javascript to:<br>
 1-Create unordered list items of the sections in the page, and append this list to the main navigation bar in the top of the page.<br>
 2- highlight the li item when hover over it, and if it is clicked the page will get thesection in the viewport.<br>
